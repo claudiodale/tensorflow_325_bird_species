@@ -4,9 +4,13 @@ Build a CNN model to classify bird species. The training set consists of 47332 i
 
 The data and the task comes from a Kaggle challenge: https://www.kaggle.com/gpiosenka/100-bird-species/version/48?select=valid
 
+The model has been trained using Google Colab.
+
 The training set has been used to train the model while the test set has been used to as the validation set.
 
 Image augmentation has been used on the train set.
 
 After training for 15 epochs a validation accuracy of around 71% has been obtained.
+
+
 
