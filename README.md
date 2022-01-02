@@ -1,4 +1,4 @@
-# tensorflow_325_bird_species
+# tensorflow_325_bird_species_classification
 
 Build a CNN model to classify bird species. The training set consists of 47332 images of 325 different bird species. A validation set consisting of 1625 images (5 images for each bird specie) will be used to test the performance of the model and a final test set (1625 images) will be used to test the generalization performance of the model.
 
